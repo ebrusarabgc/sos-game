@@ -29,4 +29,3 @@ Panel üzerinde hiç boş kutu kalmayana kadar oyun oynanır, sonunda en çok pu
 - Odev sorunsuz derlenebilmeli ve calistirilabilmelidir.
 - Odev OOP prensipleri goz onunde bulundurularak gelistirilmelidir.
    
-> Önemli Not : Başka kaynaklardan yararlanabilirsiniz ama kopya ödevler başarısız kabul edilecektir :)  
